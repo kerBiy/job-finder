@@ -4,21 +4,16 @@ Discover Your Next Career Opportunity with Our Innovative Job Search App. I crea
 
 ## Screenshots
 
-### Home
-
-![Home](assets/images/Home.png?raw=true)
-
-### Filter
-
-![Part time jobs](assets/images/PartTime.png?raw=true)
-
-### Job Details
-
-![Job Details](assets/images/JobDetail.png?raw=true)
-
-### Search
-
-![Search](assets/images/Search.png?raw=true)
+<table>
+  <tr>
+    <td><img src="assets/images/Home.png?raw=true" alt="Image1" width="200"/></td>
+    <td><img src="assets/images/PartTime.png?raw=true" alt="Image2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/Search.png?raw=true" alt="Image3" width="200"/></td>
+    <td><img src="assets/images/JobDetail.png?raw=true" alt="Image4" width="200"/></td>
+  </tr>
+</table>
 
 ## Run Locally
 
